@@ -1,7 +1,6 @@
 #           **Отчет Lab06**
 ##                *Report*
 - `Ход работы`
--
 ![Туториал](https://github.com/Nikita7181/lab06)
 
 ![](https://raw.githubusercontent.com/Nikita7181/Report_lab06/master/Screenshots/1.png)
